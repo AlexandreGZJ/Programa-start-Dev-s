@@ -1,0 +1,113 @@
+#color{
+	background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+	.tudo{
+		border: ridge;
+		z-index: 1;
+		position: relative;
+		width: 1000px;
+		height: 927px;
+		background: white;
+		margin: auto;
+		align-content: center;
+		text-align: center
+	}
+
+		.Gray-rectangle{
+				background: #999999;
+				width: 1000px;
+				height: 10px;
+			}
+
+				.Whitegray-rectangle{
+					background: #e6e6e6;
+					width: 1000px;
+					height: 10px;
+				}
+
+				
+					.nav{
+						position: relative;
+						padding-top: 15px;
+						background: #f2f2f2;
+						width: 1000px;
+						height: 40px;
+						margin: auto;
+						float: right;
+						align-content: ;
+						text-align: right;
+					}
+
+						.link:link{
+							text-decoration: none;
+							color: #262626;
+						}
+
+							.link:visited{
+								color: #262626;
+							}
+
+								.link:hover{
+									color: #8c8c8c;
+								}
+
+									.link:active{
+										color: #000000;
+									}
+
+						.titulo{
+							padding: 5px;
+							display: flex;
+							align-items: center;
+							justify-content: center;
+							text-align: center;
+							position: relative;
+							width: 400px;
+							height: 80px;
+							background: white;
+							top: 29px;
+						}
+
+.video{
+	position: relative;
+	margin: auto;
+	width: 800px;
+	height: 480px;
+	background: #F3F3F3;
+	top: 100px;
+}
+
+.rodape{
+	height: 60px;
+	width: 1000px;
+	background: #f2f2f2;
+	position: relative;
+	top: 202px;
+
+}
+
+	.Whitegray-rectangle1{
+		position: relative;
+		background: #e6e6e6;
+		width: 1000px;
+		height: 10px;
+		top: 202px;
+	}
+
+		.Gray-rectangle1{
+			position: relative;
+			background: #999999;
+			width: 1000px;
+			height: 10px;
+			top: 202px;
+		}
+
+
+			a{
+				font-family: Verdana, sans-serif;
+			}
+
+			p{
+				font-family: Verdana, sans-serif;
+			}

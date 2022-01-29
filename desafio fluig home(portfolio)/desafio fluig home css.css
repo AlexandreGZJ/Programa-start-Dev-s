@@ -1,0 +1,366 @@
+#color{
+	background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.tudo{
+	border: ridge;
+	z-index: 1;
+	position: relative;
+	width: 1000px;
+	height: 1400px;
+	background: white;
+	margin: auto;
+	align-content: center;
+	text-align: center
+}
+
+
+
+.Gray-rectangle{
+	background: #999999;
+	width: 1000px;
+	height: 10px;
+}
+
+	.Whitegray-rectangle{
+		background: #e6e6e6;
+		width: 1000px;
+		height: 10px;
+	}
+
+				
+		.nav{
+			position: relative;
+			padding-top: 15px;
+			background: #f2f2f2;
+			width: 1000px;
+			height: 40px;
+			margin: auto;
+			float: right;
+			align-content: ;
+			text-align: right;
+		}
+
+				.link:link{
+					text-decoration: none;
+					color: #262626;
+				}
+
+					.link:visited{
+						color: #262626;
+					}
+
+						.link:hover{
+							color: #8c8c8c;
+						}
+
+							.link:active{
+								color: #000000;
+							}
+
+								.titulo{
+									padding: 5px;
+									
+									align-items: flex-start;
+									justify-content: flex-start;
+									text-align: left;
+									position: relative;
+									width: 790px;
+									height: 200px;
+									background: white;
+									margin:;
+									
+									top: 70px;
+								}
+
+									.foto{
+										bottom: 100px;
+										left: 815px;
+										z-index: 6;
+										background: white;
+										position: relative;
+										width: 170px;
+										height: 170px;
+									}
+
+										#alexandree{
+											border-radius: 30%;
+										}
+
+											#nome_text{
+												font-family: Arial, Helvetica, sans-serif;
+												
+											}
+
+												.separaçao{
+													position: relative;
+													bottom: 80px;
+
+												}
+
+.Competencias_text{
+	text-align: center;
+	margin: auto;
+	background: white;
+	position: relative;
+	width: 180px;
+	height: 40px;
+	bottom: 65px;
+}
+
+	#titulo_competencias{
+		font-family: Arial, Helvetica, sans-serif;
+		font: 30px black;
+	}
+		.div_geral_graficos{
+			border-radius: 6px 6px 6px 6px ;
+			border: groove;
+			position: relative;
+			margin: auto;
+			width: 870px;
+			height: 450px;
+			background: white;
+			bottom: 40px;
+		}
+
+			.graficos_1{
+				border-left-style: groove;
+				border-right-style: groove;
+				float: left;
+				background: white;
+				position: relative;
+				width: 380px;
+				height: 380px;
+				left: 25px;
+				top: 25px;
+			}
+
+				.grafico_ingles{
+					margin: auto;
+					position: relative;
+					width: 340px;
+					height: 60px;
+					background: white;
+					margin-top: 20px;
+				}
+
+					.grafico1{
+						margin: auto;
+						border-radius: 5px 5px 5px 5px;
+						border: solid;
+						background: white;
+						position: relative;
+						width: 300px;
+						height: 30px;
+						bottom: 25px;
+					}
+
+						.porc_1{
+							background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+							width: 150px;
+							height: 30px;
+							position: relative;
+						}
+
+				.grafico_python{
+					margin: auto;
+					position: relative;
+					width: 340px;
+					height: 60px;
+					background: white;
+					margin-top: 60px;
+				}
+
+					.grafico2{
+						margin: auto;
+						border-radius: 5px 5px 5px 5px;
+						border: solid;
+						background: white;
+						position: relative;
+						width: 300px;
+						height: 30px;
+						bottom: 45px;
+					}
+
+						.porc_2{
+								background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+								width: 15px;
+								height: 30px;
+								position: relative;
+							}
+
+				.grafico_comunicacao{
+					margin: auto;
+					position: relative;
+					width: 340px;
+					height: 60px;
+					background: white;
+					margin-top: 60px;
+				}
+
+					.grafico3{
+						margin: auto;
+						border-radius: 5px 5px 5px 5px;
+						border: solid;
+						background: white;
+						position: relative;
+						width: 300px;
+						height: 30px;
+						bottom: 25px;
+					}
+
+						.porc_3{
+								background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+								width: 300px;
+								height: 30px;
+								position: relative;
+							}
+
+
+
+
+
+
+
+
+			.graficos_2{
+				border-right-style: groove;
+				border-left-style: groove;
+				float: right;
+				background: white;
+				position: relative;
+				width: 380px;
+				height: 380px;
+				right: 25px;
+				top: 25px;
+			}
+				.grafico_eletronica{
+					margin: auto;
+					position: relative;
+					width: 340px;
+					height: 60px;
+					background: white;
+					margin-top: 20px;
+				}
+
+					.grafico4{
+						margin: auto;
+						border-radius: 5px 5px 5px 5px;
+						border: solid;
+						background: white;
+						position: relative;
+						width: 300px;
+						height: 30px;
+						bottom: 25px;
+					}
+
+						.porc_4{
+							background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+							width: 240px;
+							height: 30px;
+							position: relative;
+						}
+
+				.grafico_programacao_web{
+					margin: auto;
+					position: relative;
+					width: 340px;
+					height: 60px;
+					background: white;
+					margin-top: 60px;
+				}
+
+					.grafico5{
+						margin: auto;
+						border-radius: 5px 5px 5px 5px;
+						border: solid;
+						background: white;
+						position: relative;
+						width: 300px;
+						height: 30px;
+						bottom: 25px;
+					}
+
+						.porc_5{
+							background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+							width: 210px;
+							height: 30px;
+							position: relative;
+						}
+						
+
+				.grafico_programacao_arduino{
+					margin: auto;
+					position: relative;
+					width: 340px;
+					height: 60px;
+					background: white;
+					margin-top: 60px;
+				}
+
+					.grafico6{
+						margin: auto;
+						border-radius: 5px 5px 5px 5px;
+						border: solid;
+						background: white;
+						position: relative;
+						width: 300px;
+						height: 30px;
+						bottom: 25px;
+					}
+
+						.porc_6{
+							background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+							width: 285px;
+							height: 30px;
+							position: relative;
+						}
+
+.projetos{
+	text-align: left;
+	margin: auto;
+	background: white;
+	width: 870px;
+	height: 100px;
+	position: relative;
+	bottom: 20px;
+	
+}
+
+
+
+
+
+.rodape{
+	text-align: center;
+	margin: auto;
+	z-index: 3;
+    height: 60px;
+    width: 1000px;
+    background-color: #f2f2f2;
+    position: relative;
+    bottom: 84px;
+}
+
+	.Whitegray-rectangle1{
+		margin: auto;
+		z-index: 4;
+		position: relative;
+		background: #e6e6e6;
+		width: 1000px;
+		height: 10px;
+		bottom: 84px;
+	}
+
+		.Gray-rectangle1{
+			margin: auto;
+			z-index: 5;
+			position: relative;
+			background: #999999;
+			width: 1000px;
+			height: 10px;
+			bottom: 84px;
+		}
+a{
+	font-family: Arial, Helvetica, sans-serif;
+}

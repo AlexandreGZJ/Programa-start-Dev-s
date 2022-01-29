@@ -1,0 +1,254 @@
+#color{
+	background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.tudo{
+				border: ridge;
+				z-index: 1;
+				position: relative;
+				width: 1000px;
+				height: 1400px;
+				background: white;
+				margin: auto;
+				align-content: center;
+				text-align: center
+			}
+
+			.Gray-rectangle{
+				background: #999999;
+				width: 1000px;
+				height: 10px;
+			}
+
+				.Whitegray-rectangle{
+					background: #e6e6e6;
+					width: 1000px;
+					height: 10px;
+				}
+
+				
+					.nav{
+						position: relative;
+						padding-top: 15px;
+						background: #f2f2f2;
+						width: 1000px;
+						height: 40px;
+						margin: auto;
+						float: right;
+						align-content: ;
+						text-align: right;
+					}
+
+						.link:link{
+							text-decoration: none;
+							color: #262626;
+						}
+
+							.link:visited{
+								color: #262626;
+							}
+
+								.link:hover{
+									color: #8c8c8c;
+								}
+
+									.link:active{
+										color: #000000;
+									}
+
+							.titulo{
+								padding: 5px;
+								display: flex;
+								align-items: center;
+								justify-content: center;
+								text-align: center;
+								position: relative;
+								width: 400px;
+								height: 80px;
+								background: white;
+								margin:;
+								font: 40px black;
+								top: 29px;
+							}
+
+
+
+.div_geral{
+	z-index: 2;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	position: relative;
+	margin: auto;
+	width: 950px;
+	height: 1070px;
+	background: white;
+	top: 50px;
+
+}
+	.noticia_1{
+		text-align: justify;
+		background: white;
+		position: relative;
+		width: 700px;
+		height: 200px;
+	}
+
+		#titulo_1{
+			font: 30px black;
+		}
+
+			.noticia_2{
+				text-align: justify;
+				background: white;
+				position: relative;
+				width: 700px;
+				height: 200px;
+			}
+
+				#titulo_2{
+					font: 30px black;
+				}
+
+					.noticia_3{
+						text-align: justify;
+						background: white;
+						position: relative;
+						width: 700px;
+						height: 200px;
+					}
+
+						#titulo_3{
+							font: 30px black;
+						}
+
+							.noticia_4{
+								text-align: justify;
+								background: white;
+								position: relative;
+								width: 700px;
+								height: 200px;
+							}
+
+								#titulo_4{
+									font: 30px black;
+								}
+
+									.noticia_5{
+										text-align: justify;
+										background: white;
+										position: relative;
+										width: 700px;
+										height: 200px;
+									}
+
+										#titulo_5{
+											font: 30px black;
+										}
+
+
+.div_imagem_1{
+
+	
+	width: 245px;
+	height: 170px;
+	background: #99ebff;
+	position: relative;
+	bottom: 188px;
+	left: 700px;
+
+}
+	.imagem_1{
+		width: 245px;
+		height: 170px;
+	}
+
+		.div_imagem_2{
+			
+			width: 245px;
+			height: 170px;
+			background: #99ebff;
+			position: relative;
+			bottom: 170px;
+			left: 700px;
+		}
+
+			.imagem_2{
+				width: 245px;
+				height: 170px;
+			}
+
+				.div_imagem_3{
+	
+					width: 245px;
+					height: 170px;
+					background: #99ebff;
+					position: relative;
+					bottom: 170px;
+					left: 700px;
+				}
+
+					.imagem_3{
+						width: 245px;
+						height: 170px;
+					}
+
+						.div_imagem_4{
+							z-index: 6;
+							width: 245px;
+							height: 170px;
+							background: #99ebff;
+							position: relative;
+							bottom: 170px;
+							left: 700px;
+						}
+							.imagem_4{
+								width: 245px;
+								height: 170px;
+							}
+
+								.div_imagem_5{
+									
+									width: 245px;
+									height: 170px;
+									background: #99ebff;
+									position: relative;
+									bottom: 170px;
+									left: 700px;
+								}
+									.imagem_5{
+										width: 245px;
+										height: 170px;
+									}
+
+
+.rodape{
+	z-index: 3;
+    height: 60px;
+    width: 1000px;
+    background-color: #f2f2f2;
+    position: relative;
+    top: 85px;
+}
+
+	.Whitegray-rectangle1{
+		z-index: 4;
+		position: relative;
+		background: #e6e6e6;
+		width: 1000px;
+		height: 10px;
+		top: 85px;
+	}
+
+		.Gray-rectangle1{
+			z-index: 5;
+			position: relative;
+			background: #999999;
+			width: 1000px;
+			height: 10px;
+			top: 85px;
+		}
+a{
+	font-family: Arial, Helvetica, sans-serif;
+}
+	
